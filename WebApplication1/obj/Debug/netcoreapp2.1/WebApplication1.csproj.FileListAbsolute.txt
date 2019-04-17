@@ -1,0 +1,14 @@
+C:\source\Eventos.Io.Domain\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.deps.json
+C:\source\Eventos.Io.Domain\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.json
+C:\source\Eventos.Io.Domain\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.dev.json
+C:\source\Eventos.Io.Domain\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.dll
+C:\source\Eventos.Io.Domain\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.pdb
+C:\source\Eventos.Io.Domain\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\source\Eventos.Io.Domain\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cache
+C:\source\Eventos.Io.Domain\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cs
+C:\source\Eventos.Io.Domain\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfoInputs.cache
+C:\source\Eventos.Io.Domain\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfo.cs
+C:\source\Eventos.Io.Domain\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\source\Eventos.Io.Domain\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.dll
+C:\source\Eventos.Io.Domain\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.pdb
+C:\source\Eventos.Io.Domain\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csprojAssemblyReference.cache
