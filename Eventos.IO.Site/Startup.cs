@@ -13,7 +13,7 @@ using Eventos.IO.Application.AutoMapper;
 using System.Reflection;
 using AutoMapper;
 
-namespace Eventos.IO.Site
+namespace Eventos.IO.Sitec
 {
     public class Startup
     {
