@@ -1,0 +1,12 @@
+C:\source\Eventos.IO.Infra.CrossCutting.Bus\bin\Debug\netstandard2.0\Eventos.IO.Infra.CrossCutting.Bus.deps.json
+C:\source\Eventos.IO.Infra.CrossCutting.Bus\bin\Debug\netstandard2.0\Eventos.IO.Infra.CrossCutting.Bus.dll
+C:\source\Eventos.IO.Infra.CrossCutting.Bus\bin\Debug\netstandard2.0\Eventos.IO.Infra.CrossCutting.Bus.pdb
+C:\source\Eventos.IO.Infra.CrossCutting.Bus\obj\Debug\netstandard2.0\Eventos.IO.Infra.CrossCutting.Bus.csproj.CoreCompileInputs.cache
+C:\source\Eventos.IO.Infra.CrossCutting.Bus\obj\Debug\netstandard2.0\Eventos.IO.Infra.CrossCutting.Bus.AssemblyInfoInputs.cache
+C:\source\Eventos.IO.Infra.CrossCutting.Bus\obj\Debug\netstandard2.0\Eventos.IO.Infra.CrossCutting.Bus.AssemblyInfo.cs
+C:\source\Eventos.IO.Infra.CrossCutting.Bus\obj\Debug\netstandard2.0\Eventos.IO.Infra.CrossCutting.Bus.dll
+C:\source\Eventos.IO.Infra.CrossCutting.Bus\obj\Debug\netstandard2.0\Eventos.IO.Infra.CrossCutting.Bus.pdb
+C:\source\Eventos.IO.Infra.CrossCutting.Bus\bin\Debug\netstandard2.0\Eventos.Io.Domain.Core.dll
+C:\source\Eventos.IO.Infra.CrossCutting.Bus\bin\Debug\netstandard2.0\Eventos.Io.Domain.Core.pdb
+C:\source\Eventos.IO.Infra.CrossCutting.Bus\obj\Debug\netstandard2.0\Eventos.IO.Infra.CrossCutting.Bus.csprojAssemblyReference.cache
+C:\source\Eventos.IO.Infra.CrossCutting.Bus\obj\Debug\netstandard2.0\Eventos.IO.Infra.CrossCutting.Bus.csproj.CopyComplete

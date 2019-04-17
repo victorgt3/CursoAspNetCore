@@ -1,0 +1,14 @@
+C:\source\Eventos.IO.Application\bin\Debug\netstandard2.0\Eventos.IO.Application.deps.json
+C:\source\Eventos.IO.Application\bin\Debug\netstandard2.0\Eventos.IO.Application.dll
+C:\source\Eventos.IO.Application\bin\Debug\netstandard2.0\Eventos.IO.Application.pdb
+C:\source\Eventos.IO.Application\obj\Debug\netstandard2.0\Eventos.IO.Application.csprojAssemblyReference.cache
+C:\source\Eventos.IO.Application\obj\Debug\netstandard2.0\Eventos.IO.Application.csproj.CoreCompileInputs.cache
+C:\source\Eventos.IO.Application\obj\Debug\netstandard2.0\Eventos.IO.Application.AssemblyInfoInputs.cache
+C:\source\Eventos.IO.Application\obj\Debug\netstandard2.0\Eventos.IO.Application.AssemblyInfo.cs
+C:\source\Eventos.IO.Application\obj\Debug\netstandard2.0\Eventos.IO.Application.dll
+C:\source\Eventos.IO.Application\obj\Debug\netstandard2.0\Eventos.IO.Application.pdb
+C:\source\Eventos.IO.Application\bin\Debug\netstandard2.0\Eventos.Io.Domain.Core.dll
+C:\source\Eventos.IO.Application\bin\Debug\netstandard2.0\Eventos.Io.Domain.dll
+C:\source\Eventos.IO.Application\bin\Debug\netstandard2.0\Eventos.Io.Domain.Core.pdb
+C:\source\Eventos.IO.Application\bin\Debug\netstandard2.0\Eventos.Io.Domain.pdb
+C:\source\Eventos.IO.Application\obj\Debug\netstandard2.0\Eventos.IO.Application.csproj.CopyComplete
