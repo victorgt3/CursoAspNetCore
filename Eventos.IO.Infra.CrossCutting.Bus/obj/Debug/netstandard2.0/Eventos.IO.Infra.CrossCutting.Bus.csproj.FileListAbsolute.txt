@@ -10,3 +10,5 @@ C:\source\Eventos.IO.Infra.CrossCutting.Bus\bin\Debug\netstandard2.0\Eventos.Io.
 C:\source\Eventos.IO.Infra.CrossCutting.Bus\bin\Debug\netstandard2.0\Eventos.Io.Domain.Core.pdb
 C:\source\Eventos.IO.Infra.CrossCutting.Bus\obj\Debug\netstandard2.0\Eventos.IO.Infra.CrossCutting.Bus.csprojAssemblyReference.cache
 C:\source\Eventos.IO.Infra.CrossCutting.Bus\obj\Debug\netstandard2.0\Eventos.IO.Infra.CrossCutting.Bus.csproj.CopyComplete
+C:\Users\guita\Source\Repos\CQRS\Eventos.IO.Infra.CrossCutting.Bus\obj\Debug\netstandard2.0\Eventos.IO.Infra.CrossCutting.Bus.dll
+C:\Users\guita\Source\Repos\CQRS\Eventos.IO.Infra.CrossCutting.Bus\obj\Debug\netstandard2.0\Eventos.IO.Infra.CrossCutting.Bus.pdb
